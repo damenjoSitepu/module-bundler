@@ -1,0 +1,16 @@
+{
+    "name": "module-bundler",
+    "version": "1.0.0",
+    "description": "Test Webpack Configuration Works Properly!",
+    "private": true,
+    "scripts": {
+        "build": "webpack --config webpack/config/webpack.config.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.88.1",
+        "webpack-cli": "^5.1.4"
+    }
+}

@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(t=0){document.getElementById("app-targetted-value").textContent=t}(new class{number=0;total=0;constructor(t=0){this.number=t}create(){return this.total=this.number*(this.number+1)/2,this}get(){return this.total}}(20).create().get())})();
